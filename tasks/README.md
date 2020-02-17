@@ -11,6 +11,6 @@
 2. Deliberative counter argumentation
 
 
-* See task ![documentation here](../docs/people_should_task.md)
+* See task [documentation here](../docs/people_should_task.md)
 
-* The PsychoPy implementation of the task ![is available here]('people_should_task')
+* The PsychoPy implementation of the task [is available here](people_should_task)

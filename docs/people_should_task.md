@@ -58,7 +58,7 @@ The task consists if 3 within-subject conditions (see Figures 1 & 2).
 * Finally, in condition 3 (AGREE), participants are asked to indicate whether they agree or disagree with the statement (Figure 2).
 
 <figure>
-  <img src="figures/study1_task_infavor-neg.png"
+  <img src="img/study1_task_infavor-neg.png"
        alt="Deliberative IN FAVOR argumentation"/>
   <figcaption>Fig. 1a. Deliberative IN FAVOR condition with an easy against issue</figcaption>
 </figure>
@@ -70,14 +70,14 @@ The task consists if 3 within-subject conditions (see Figures 1 & 2).
 Each trial started with a prompt indicating which task participants had to perform (e.g., condition 1: _Starting the IN FAVOR condition_; condition 3: _Starting the AGREE condition_) for 3 seconds. In the two deliberative conditions, participants were then shown one statement for 12 seconds,  Participants either indicated, via a button press, the number of in favor/against reasons for each statement (in conditions 1 and 2) or the extent to which they agreed/disagreed with each statement (condition 3). This was then followed by a fixation cross for either 2 seconds or 12 seconds every fourth trial.
 
 <figure>
-  <img src="figures/study1_task_agree_cond1.png"
+  <img src="img/study1_task_agree_cond1.png"
        alt="Quick judgement condition (AGREE)"
   />
   <figcaption>Fig. 2a. Quick judgement condition (AGREE) with easy against issues</figcaption>
 </figure>
 
 <figure>
-  <img src="figures/study1_task_agree_cond2.png"
+  <img src="img/study1_task_agree_cond2.png"
        alt="Quick judgement condition (AGREE)"/>
   <figcaption>Fig. 2b. Quick judgement (AGREE) condition with easy in favor issues</figcaption>
 </figure>
